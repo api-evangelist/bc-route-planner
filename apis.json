@@ -1,0 +1,47 @@
+{
+    "name": "BC Route Planner",
+    "description": "<p><span>The BC Route Planner is a REST web service that offers vehicle route plans that are based on the BC Digital Road Atlas (DRA). The BC Route Planner computes the shortest or fastest route between start and end points and returns the route, distance, time, and directions.<\/span><\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/Beautiful-British-Columbia-Logo-Real-Estate-Economy.png",
+    "tags": [
+        "api provider",
+        "have api",
+        "locations",
+        "routes",
+        "service api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/bc-route-planner\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "BC Route Planner",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/Beautiful-British-Columbia-Logo-Real-Estate-Economy.png",
+            "humanURL": "https:\/\/catalogue.data.gov.bc.ca\/dataset\/bc-route-planner",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/openapis\/bc-route-planner.json"
+                },
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/bc-route-planner-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/bc-route-planner-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "https:\/\/catalogue.data.gov.bc.ca\/dataset\/bc-route-planner"
+        }
+    ]
+}
