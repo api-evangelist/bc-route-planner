@@ -1,5 +1,5 @@
 {
-    "id": "dbd689da7225a7233b4ba7fdda4e198c",
+    "id": "d8bbe46a4bbc3cc66192ecd69db6383b",
     "name": "BC Route Planner",
     "description": null,
     "auth": null,
@@ -10,7 +10,7 @@
     "folders": [],
     "requests": [
         {
-            "id": "ed34d74c8a353ac829441759392efec1",
+            "id": "2cbdf56770481cc6b6afc1f62ea4824d",
             "name": "Get the directions, path, distance and travel time between a series of geographic points",
             "url": "httpsrouter.api.gov.bc.ca\/\/directions.{outputFormat}",
             "description": "Represents the turn-by-turn directions, geometry, distance, and time of the shortest path or fastest path between given start and end points",
@@ -72,11 +72,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dbd689da7225a7233b4ba7fdda4e198c",
+            "collectionId": "d8bbe46a4bbc3cc66192ecd69db6383b",
             "rawModeData": ""
         },
         {
-            "id": "d52b8a1c69fdc335f8a6a992158032bb",
+            "id": "25b84ef628191a0598dc8d8e1682d3b4",
             "name": "Get distance and travel time between two geographic points",
             "url": "httpsrouter.api.gov.bc.ca\/\/distance.{outputFormat}",
             "description": "Represents the distance and time of the shortest or fastest path between given start and end points.",
@@ -138,11 +138,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dbd689da7225a7233b4ba7fdda4e198c",
+            "collectionId": "d8bbe46a4bbc3cc66192ecd69db6383b",
             "rawModeData": ""
         },
         {
-            "id": "49a20b9a4f57d6d0496340527744d77a",
+            "id": "4237e1e356f4580b034398047336ee30",
             "name": "Get distance and travel time between each pair of geographic points",
             "url": "httpsrouter.api.gov.bc.ca\/\/distance\/betweenPairs.{outputFormat}",
             "description": "Represents the distance and time of the shortest or fastest paths between all pairs of fromPoints and toPoints. The number of fromPoints times the number of toPoints should not exceed 100 or the request will time out.",
@@ -211,11 +211,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dbd689da7225a7233b4ba7fdda4e198c",
+            "collectionId": "d8bbe46a4bbc3cc66192ecd69db6383b",
             "rawModeData": ""
         },
         {
-            "id": "5b62528672a81844be873b2c7a46bdad",
+            "id": "3f1cf70a435b0669fa00e180692dd986",
             "name": "Get the path, distance and travel time between a series of geographic points",
             "url": "httpsrouter.api.gov.bc.ca\/\/route.{outputFormat}",
             "description": "Represents the geometry, distance, and time of the shortest or fastest path between given start and end points.",
@@ -277,7 +277,7 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "dbd689da7225a7233b4ba7fdda4e198c",
+            "collectionId": "d8bbe46a4bbc3cc66192ecd69db6383b",
             "rawModeData": ""
         }
     ]
